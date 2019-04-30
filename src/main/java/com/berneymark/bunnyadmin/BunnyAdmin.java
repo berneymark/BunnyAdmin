@@ -6,12 +6,12 @@ public final class BunnyAdmin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        System.out.println("Bunny Admin starting up.");
+        System.out.println("Created by TheKingOEmeralds");
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        System.out.println("Bunny Admin shutting down.");
     }
 }
