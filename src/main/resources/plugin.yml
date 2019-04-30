@@ -1,0 +1,8 @@
+name: BunnyAdmin
+version: ${project.version}
+main: com.berneymark.bunnyadmin.BunnyAdmin
+api-version: 1.13
+load: STARTUP
+authors: [MarkBerney]
+description: Plugin for server management.
+website: berneymark.com
